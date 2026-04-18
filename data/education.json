@@ -1,0 +1,20 @@
+[
+  {
+    "order": 1,
+    "title": "Master of Business Administration",
+    "company": "Oxford College of Engineering, Bengaluru",
+    "date": "CGPA: 7.81",
+    "description": [
+      "MBA with focus on Human Resources"
+    ]
+  },
+  {
+    "order": 2,
+    "title": "Bachelor of Commerce",
+    "company": "Christ College of Science and Management, Bengaluru",
+    "date": "CGPA: 7.21",
+    "description": [
+      "B.Com undergraduate degree"
+    ]
+  }
+]
